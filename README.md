@@ -1,0 +1,2 @@
+# loyihalar
+pythonda loyhalar
